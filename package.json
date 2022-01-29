@@ -1,17 +1,25 @@
 {
   "name": "fastnews",
   "version": "1.0.0",
-  "description": "A fast news app",
+  "description": "A fast news api based on inshorts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "news",
-    "inshorts"
+    "inshorts",
+    "fast",
+    "api",
+    "reading"
   ],
+  "homepage": "https://github.com/ScorchingShade/fast-news",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScorchingShade/fast-news"
+  },
   "type": "module",
-  "author": "Ankush",
+  "author": "Ankush <info@thecodewolf.in> (https://thecodewolf.in/)",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
