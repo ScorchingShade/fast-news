@@ -1,4 +1,4 @@
-import get from './inshorts.js';
+import get from './src.js';
 
 var options = {
     lang: 'en',
