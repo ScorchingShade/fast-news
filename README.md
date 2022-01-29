@@ -8,13 +8,13 @@ An api to quickly get news via the inshorts website.
 ## Installation
 Install using npm:
 ```sh
-npm install fast-news-api
+npm install fastnews
 ```
 
 ## Usage
 Require library
 ```javascript
-const inshorts= require('fast-news-api');
+const inshorts= require('fastnews');
 ```
 ```javascript
 var options = {

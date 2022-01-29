@@ -1,6 +1,6 @@
 {
   "name": "fastnews",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fast news api based on inshorts",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ScorchingShade/fast-news"
+  },
+  "bugs": {
+    "url": "https://github.com/ScorchingShade/fast-news/issues",
+    "email": "info@thecodewolf.in"
   },
   "type": "module",
   "author": "Ankush <info@thecodewolf.in> (https://thecodewolf.in/)",
